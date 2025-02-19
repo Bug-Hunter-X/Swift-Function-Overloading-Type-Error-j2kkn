@@ -1,0 +1,3 @@
+# Swift Function Overloading and Type Safety
+
+This repository demonstrates a common error in Swift related to function overloading and type safety. The issue arises when attempting to call an overloaded function with arguments of different types that don't have a clear match with any of the overloaded functions.  The solution involves carefully considering the function signatures and using explicit type casting where needed.
